@@ -1,0 +1,27 @@
+{
+  "name": "iooc",
+  "version": "0.0.1",
+  "description": "我的创意书斋",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iooc/iooc.github.io.git"
+  },
+  "keywords": [
+    "iooc",
+    "书斋",
+    "我的"
+  ],
+  "author": "Cocker Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iooc/iooc.github.io/issues"
+  },
+  "homepage": "https://github.com/iooc/iooc.github.io#readme",
+  "dependencies": {
+    "material-design-lite": "^1.2.1"
+  }
+}
